@@ -1,5 +1,6 @@
 ---
-home: true
+ho96821413
+me: true
 heroImage: /logo.png
 actionText: Learn more
 actionLink: /introduction.html
